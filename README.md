@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### I am a Dad, aspiring command line hero and a hockey fan. 
+
+#### I'm Grigorij. I work as an anesthesiologist at the University Hospital Bonn. In my spare time I play with my kids and learn statistics when kids are asleep. 
 <!--
 **GrigorijSchleifer/GrigorijSchleifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
