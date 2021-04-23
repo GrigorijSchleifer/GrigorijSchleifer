@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I'm Grigorij. I work as an anesthesiologist at the University Hospital Bonn. In my spare time I play with my kids and learn statistics when kids are asleep. 
+##### I'm Grigorij. I work as an anesthesiologist at the University Hospital of Bonn. 
 <!--
 **GrigorijSchleifer/GrigorijSchleifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
