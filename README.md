@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### I'm Grigorij. I work as an anesthesiologist at the University Hospital of Bonn. I am also a proud member of the MIT Critica Data consortium. 
+##### I'm Grigorij. I work as an anesthesiologist at the University Hospital Bonn. I am also a proud member of the MIT Critica Data consortium. 
 <!--
 **GrigorijSchleifer/GrigorijSchleifer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
