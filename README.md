@@ -6,9 +6,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on cool stuff
+- 🔭 I’m always leaning 
 - 🌱 I’m currently learning for my anesthesia boarding exam
 - 👯 I’m looking to collaborate on machine leaning
-- 🤔 I’m looking for help with statistic
+- 🤔 I’m looking for help with statistics
 - 📫 How to reach me: grigorij.schleifer@ukbonn.de
 - ⚡ Fun fact: I play hockey with some bad ass seniors
