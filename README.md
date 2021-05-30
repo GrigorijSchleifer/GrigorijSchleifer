@@ -4,10 +4,10 @@
 
 <br>
 
+- 📫 How to reach me: grigorij.schleifer@ukbonn.de
 - 🌱 I’m currently learning for my anesthesia boarding exam
 - 👯 I’m looking to collaborate on machine learning
 - 🤔 I’m looking for help with statistics
-- 📫 How to reach me: grigorij.schleifer@ukbonn.de
 - ⚡ Fun fact: I play hockey with some old farts and they kick my ass
 
 <br>
