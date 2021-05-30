@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-##### I'm ✨ Grigorij ✨. I work as an anesthesiologist at the University Hospital Bonn. I am also a proud member of the MIT Critica Data consortium. 
+### I'm ✨ Grigorij ✨. I work as an anesthesiologist at the University Hospital Bonn. I am a proud member of the MIT Critica Data consortium. I my spare time I break code and read stuff.
 
 
 - 🌱 I’m currently learning for my anesthesia boarding exam
