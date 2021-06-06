@@ -9,6 +9,11 @@
 - 🤔 I’m looking for help with statistics and how to get meaningfull data
 - ⚡ Fun fact: I play hockey with some old farts and they kick my ass
 
+<br>
+
+![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=gruvbox)
+
+
 
 ### Tools:
 
