@@ -21,7 +21,6 @@
 </div>
 
 
-
 <br>
 
-![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=dracula)
+<!-- ![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=dracula) -->
