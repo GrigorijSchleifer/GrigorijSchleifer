@@ -5,7 +5,7 @@
 <br>
 
 - 🌱 I’m currently learning for my anesthesia boarding exam
-- 👯 I’m looking to collaborate on how to collaborate 😎
+- 👯 I’m looking to collaborate 😎
 - 🤔 I’m looking for help with statistics
 - ⚡ Fun fact: I play hockey with some old farts and they kick my ass
 
