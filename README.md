@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-#### I'm Grigorij. I work as an ✨  anesthesiologist ✨ at the University Hospital Bonn. I am a medical AI-venger and a proud member of the MIT Critical Data consortium. In my spare time read about crypto and learn things ... 
+#### I'm Grigorij. I work as an ✨  anesthesiologist ✨ at the University Hospital Bonn. I am a medical AI-venger and a proud member of the MIT Critical Data consortium. In my spare time I read about crypto and code in R ... 
 
 <br>
 
