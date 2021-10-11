@@ -18,3 +18,6 @@
 <br>
 
 <!-- ![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=dracula) -->
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grigorijschleifer&show_icons=true&locale=en" alt="grigorijschleifer" /></p>
