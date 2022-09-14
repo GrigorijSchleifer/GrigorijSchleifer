@@ -24,11 +24,7 @@
 #### Profiles
 <br>
 <div class="inline-block">
-<a href="https://www.codewars.com/users/GrigorijSchleifer">
- <img height="35px" width="35px"
-      src="https://www.codewars.com/packs/assets/logo.61192cf7.svg"/>
- </a>
-
+ <img src="https://www.codewars.com/users/GrigorijSchleifer/badges/large">
 </div>
 
 <br/>
