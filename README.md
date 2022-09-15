@@ -1,6 +1,6 @@
 <br>
 
-### Hi there 👋
+# Hi there 👋
 
 #### I'm Grigorij. I work as an ✨  anesthesiologist ✨ at the University Hospital Bonn. I am a medical AI-venger and a proud member of the MIT Critical Data consortium
 
