@@ -10,6 +10,7 @@
 
 #### Languages and Tools:
 <br>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <div class="inline-block">
 <img height="35px" width="35px"
      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
