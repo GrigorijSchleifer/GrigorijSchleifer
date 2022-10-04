@@ -19,7 +19,6 @@
 </div>
 
 
-
 #### Profiles
 <br>
 <div class="inline-block">
@@ -30,6 +29,18 @@
 
 
 <!-- ![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=dracula) -->
+
+
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijschleifer&hide=scss&layout=compact&theme=tokyonight)
+
+
+
+
+
+
+
+
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grigorijschleifer&show_icons=true&locale=en" alt="grigorijschleifer" /></p> -->
