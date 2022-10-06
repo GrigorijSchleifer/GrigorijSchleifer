@@ -30,17 +30,6 @@
 
 <!-- ![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=dracula) -->
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=grigorijschleifer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
-
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijschleifer&hide=scss&layout=compact&theme=tokyonight)
-
-
-
-
-
-
-
-
-
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=grigorijschleifer&show_icons=true&locale=en" alt="grigorijschleifer" /></p> -->
