@@ -6,6 +6,12 @@
 
 #### I work as an ✨  anesthesiologist ✨ at the University Hospital Bonn. I am a medical AI-venger and a proud member of the MIT Critical Data consortium
 
+<ul>
+ <li>Imposter pythonista</li>
+ <li>TidyTuesday</li>
+</ul>
+
+
 <br/>
 
 <!-- ![Grigorij's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigorijschleifer&hide=contribs,prs&show_icons=true&theme=dracula) -->
