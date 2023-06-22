@@ -2,9 +2,7 @@
 
 # Hi there 👋
 
-### I'm Grigorij
-
-#### I work as an ✨  anesthesiologist ✨ at the University Hospital Bonn. I am a medical AI-venger and a proud member of the MIT Critical Data consortium
+### I'm Grigorij, I work as an ✨  anesthesiologist ✨ at the University Hospital Bonn. I am a medical AI-venger and a proud member of the MIT Critical Data consortium
 
 
 - 📫 How to reach me: **grigorij.schleifer@ukbonn.de**
