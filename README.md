@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-### I'm Grigorij and I am an  ✨ anesthesiologist ✨ from Germany. I am a medical AI-venger and a proud member of the MIT Critical Data consortium
+### I am an ✨ anesthesiologist ✨ from Germany, a medical AI-venger and a proud member of the MIT Critical Data consortium
 
 
 📫 **grigorij.schleifer@ukbonn.de**
