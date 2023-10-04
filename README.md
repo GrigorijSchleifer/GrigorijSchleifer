@@ -1,10 +1,5 @@
-# Hi there 👋
 
-### I am an ✨ anesthesiologist ✨ from Germany and a proud medical AI-venger 
-
-<br>
-
-📫 **grigorij.schleifer@ukbonn.de**
+📫 **grigorij.schleifer@outlook.com**
 
 <!--![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigorijschleifer&hide=scss&layout=compact&theme=tokyonight)-->
 <br>
